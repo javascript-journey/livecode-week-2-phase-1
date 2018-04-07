@@ -1,4 +1,4 @@
-# **Perpustakaan Javascript (2 Jam)**
+# **Perpustakaan Javascript (1,5 Jam)**
 
 
 ### RELEASE 0
