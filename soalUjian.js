@@ -91,6 +91,8 @@ var perpus = new perpustakaan(
 	'Perpustakaan Javascript', 
 	'Pondok Indah', book)
 
+console.log(perpus.book)
+
 'use strict';
 
 const fs = require('fs')
@@ -101,9 +103,9 @@ let data = JSON.stringify(perpus.book, null, 2);
 fs.writeFileSync('books.json', data);  
 
 
-let rawData = fs.readFileSync('books.json')
-let newbook = JSON.parse(rawData)
-console.log(newbook)
+// let rawData = fs.readFileSync('books.json')
+// let book = JSON.parse(rawData)
+// console.log(book)
 
 
 
