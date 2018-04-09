@@ -1,0 +1,25 @@
+{
+	"Journal": {
+		"title": "Jatuh Bangung Seorang Fullstack",
+		"author": "Kang Udin",
+		"_totalPages": 89,
+		"readingDays": 1,
+		"isAvail": true
+	},
+	"Biography": {
+		"title": "Orang Dibalik Apple",
+		"author": "Mas Bejo",
+		"_totalPages": 327,
+		"readingDays": 4,
+		"isAvail": true,
+		"figure": "Steve Wozniak"
+	},
+	"History": {
+		"title": "Awal Peradaban Callback",
+		"author": "Bang Togar",
+		"_totalPages": 127,
+		"readingDays": 2,
+		"isAvail": true,
+		"century": "Middle Earth"
+	}
+}
